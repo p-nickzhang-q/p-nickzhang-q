@@ -5,7 +5,7 @@ Java · Kotlin · Node.js · 11 年交付
 
 | 项目 | 一句话 |
 |---|---|
-| [photo-ledger](https://github.com/p-nickzhang-q/photo-ledger) | 端侧 OCR + 0.6B LLM 记账 App，单张 596s → 17.4s，MIT 开源 |
+| [photo-ledger](https://github.com/p-nickzhang-q/photo-ledger) | 端侧 OCR + 0.6B LLM 记账 App，单张 596s → 约 10s（60 倍），MIT 开源 |
 | [java-tools](https://github.com/p-nickzhang-q/java-tools) | 动态查询 DSL 与文件处理，被两个生产系统依赖 |
 | [pg-dynamic-query](https://www.npmjs.com/package/pg-dynamic-query) | MySQL / PostgreSQL 动态查询库，已发布 NPM |
 
